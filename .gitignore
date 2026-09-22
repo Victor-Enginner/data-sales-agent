@@ -1,0 +1,7 @@
+# data-sales-agent — deps e segredos nunca entram
+# (output/ fica VERSIONADO de propósito: é o produto servido/publishado)
+node_modules/
+*.log
+.env
+.env.*
+__pycache__/
